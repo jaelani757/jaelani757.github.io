@@ -41,6 +41,10 @@ a.social {
   line-height: 40px;
 }
 
+#portfolio img {
+  height: 300px;
+  object-fit: cover;
+}
 .client img {
   height: auto;
   max-height: 50px;
